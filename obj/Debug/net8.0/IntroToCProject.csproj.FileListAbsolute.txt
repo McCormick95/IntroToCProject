@@ -12,3 +12,4 @@ C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\refint\Intr
 C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.pdb
 C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.genruntimeconfig.cache
 C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\ref\IntroToCProject.dll
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.sourcelink.json

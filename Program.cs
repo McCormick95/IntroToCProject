@@ -13,8 +13,11 @@ namespace IntroToC{
                 Description="test description",
                 DailyRentalCost=35.00,
                 ReplacementCost= 250.00,
-                QuantityAvailable=5
+                QuantityAvailable=5,
+                MembershipDiscount=0.5
             };
+            Console.WriteLine(T1);
+
         }
     }
 }
