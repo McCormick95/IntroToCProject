@@ -1,0 +1,14 @@
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\bin\Debug\net8.0\IntroToCProject.exe
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\bin\Debug\net8.0\IntroToCProject.deps.json
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\bin\Debug\net8.0\IntroToCProject.runtimeconfig.json
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\bin\Debug\net8.0\IntroToCProject.dll
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\bin\Debug\net8.0\IntroToCProject.pdb
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.AssemblyInfoInputs.cache
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.AssemblyInfo.cs
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.csproj.CoreCompileInputs.cache
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.dll
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\refint\IntroToCProject.dll
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.pdb
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\IntroToCProject.genruntimeconfig.cache
+C:\Users\ryanm\source1\repo\CSCI350\IntroToCProject\obj\Debug\net8.0\ref\IntroToCProject.dll
