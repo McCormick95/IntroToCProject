@@ -39,7 +39,6 @@ namespace IntroToC{
             }
         }
 
-
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder("featuring: ");
@@ -54,9 +53,9 @@ namespace IntroToC{
             Membership Discount Rate: {MembershipDiscount}";
         }
 
-        public int CompareTo(Tool? other)
+        public int CompareTo(Tool other)
         {
-            throw new NotImplementedException();
+            return this.ItemId.CompareTo(other.ItemId);
         }
     }
 }
